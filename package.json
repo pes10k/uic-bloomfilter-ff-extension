@@ -1,0 +1,9 @@
+{
+  "name": "bloomextension",
+  "title": "UIC Bloomfilter CRL",
+  "id": "jid1-l6TeWqIA5gzBYg",
+  "description": "Proof of concept extension that uses bloomfilters to locally keep global CRL state.",
+  "author": "",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
